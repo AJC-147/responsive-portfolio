@@ -208,3 +208,12 @@ a.btn.btn-primary {
     position: relative;
     left: -7px;
 }
+
+@media screen and (max-width: 767px) {
+    
+.navbar-expand .navbar-nav    {
+    position: absolute;
+    left: 400px;
+    }
+}
+    
